@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sandrayuju9503
-- 👀 I’m interested in animation 
-- 🌱 I’m currently learning . computer science 
-- 📫 contact me using my email sandraplavara@gmail.com
+- 👋 Hey, yuju here
+- 👀 interested in animation 
+- 🌱 I’m major in computer science
 
 <!---
 Sandrayuju9503/Sandrayuju9503 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
